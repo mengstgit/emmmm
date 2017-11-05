@@ -1,0 +1,52 @@
+
+.form-control {
+	height: 44px;
+	background-image: #f2f2f2;
+	text-indent: 5px;
+	border-radius: 0;
+	box-shadow: none;
+	width: 100%;
+
+}
+.btn {
+    border-radius: 0;
+    border: none;
+    margin-top: 30px;
+}
+a.btn btn-danger btn-block btn-social btn-google {
+     
+     display: block;
+     width: 100%;
+}
+
+.login_container {
+   background: #f2f2f2;
+   height: 100%;
+   padding: 200px 0;
+}
+.registeration_container {
+	  background: #f2f2f2;
+	  padding: 0;
+	  height: 100%;
+
+}
+.registeration_container form {
+	margin-top: 100px;
+}
+form {
+	width: 100%;
+	background: #fff;
+	padding: 60px;
+	margin-top:  10px;
+}
+
+.btn {
+	border-radius: 0;
+	border: none;
+	margin-top: 30px;
+
+}
+footer p{
+	position: absolute;
+	bottom: 0;
+}
